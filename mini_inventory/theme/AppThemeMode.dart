@@ -1,0 +1,2 @@
+
+enum AppThemeMode {light, dark}

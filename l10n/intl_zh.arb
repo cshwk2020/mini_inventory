@@ -1,0 +1,22 @@
+{
+
+    "@@locale": "zh",
+
+    "helloWorld": "Hello World!",
+
+    "miniInventory": "庫存",
+
+    "items": "項目",
+
+    "category": "類別",
+
+    "reporting": "報告",
+
+    "setting": "設置",
+
+    "unknownMenuOption": "未知錯誤",
+
+    "darkMode": "暗黑模式"
+
+}
+

@@ -1,0 +1,32 @@
+{
+
+  "@@locale": "en",
+
+  "helloWorld": "Hello World!",
+  "@helloWorld": { "description": "" },
+
+  "miniInventory": "Mini Inventory",
+  "@miniInventory": { "description": "" },
+
+  "items": "Items",
+  "@items": { "description": "" },
+
+  "category": "Category",
+  "@category": { "description": "" },
+
+  "reporting": "Reporting",
+  "@reporting": { "description": "" },
+
+  "setting": "Setting",
+  "@setting": { "description": "" },
+
+  "unknownMenuOption": "Unknown Menu Option",
+  "@unknownMenuOption": { "description": "" },
+
+  "darkMode": "Dark Mode",
+  "@darkMode": { "description": "" }
+
+
+
+}
+
